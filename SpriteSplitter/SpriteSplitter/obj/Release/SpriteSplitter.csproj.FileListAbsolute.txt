@@ -1,0 +1,9 @@
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\bin\Release\SpriteSplitter.exe.config
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\bin\Release\SpriteSplitter.exe
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\bin\Release\SpriteSplitter.pdb
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\obj\Release\SpriteSplitter.Form1.resources
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\obj\Release\SpriteSplitter.Properties.Resources.resources
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\obj\Release\SpriteSplitter.csproj.GenerateResource.cache
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\obj\Release\SpriteSplitter.csproj.CoreCompileInputs.cache
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\obj\Release\SpriteSplitter.exe
+D:\Projects\c#\SpriteSplitter\SpriteSplitter\obj\Release\SpriteSplitter.pdb
